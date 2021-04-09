@@ -45,7 +45,7 @@ optional arguments:
 
 ## Finger Json
 
-指纹库放置于"/lib/CMS_FINGER.json"。  *指纹库更新于2020/05/05*
+指纹库放置于"/lib/CMS_FINGER.json"。更新于2020/05/05
 
 模板如下：
 
@@ -72,6 +72,8 @@ optional arguments:
         }
 }
 ```
+
+
 
 ![](https://img.shields.io/badge/Powerd%20By-Awrrays-blue)
 
