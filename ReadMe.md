@@ -35,12 +35,12 @@ optional arguments:
 
 ## Scan Level
 
-1. Level 1 ： Index为请求首页的响应  (列表格式，正则匹配，添加指纹注意转义)
-   1. head - Response header
-   2. title - Html Title
-   3. body - Html code
-2. Level 2 ：Keywords为匹配特定文件的特定字符串
-3. Level 3 ：文件md5值匹配(不推荐)
+Level 1 ： Index为请求首页的响应  (列表格式，正则匹配，添加指纹注意转义)
+   head - Response header
+   title - Html Title
+   body - Html code
+Level 2 ：Keywords为匹配特定文件的特定字符串
+Level 3 ：文件md5值匹配(不推荐)
 
 ## Finger Json
 
